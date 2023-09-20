@@ -1,4 +1,4 @@
-package class12;
+package class12_动态规划;
 
 public class Code03_Knapsack {
 
