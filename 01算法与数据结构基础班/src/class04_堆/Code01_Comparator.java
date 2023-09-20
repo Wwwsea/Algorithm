@@ -27,6 +27,7 @@ public class Code01_Comparator {
 		// 返回正数的时候，第二个参数排在前面
 		// 返回0的时候，谁在前面无所谓
 		@Override
+		// 从小到大排序
 		public int compare(Student o1, Student o2) {
 			return o1.id - o2.id;
 		}
